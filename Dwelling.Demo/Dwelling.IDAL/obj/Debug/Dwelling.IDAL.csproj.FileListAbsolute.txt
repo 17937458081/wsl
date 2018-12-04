@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\蜗居微信小程序\Dwelling.Demo\Dwelling.IDAL\bin\Debug\Dwelling.IDAL.dll
+C:\Users\Lenovo\Desktop\蜗居微信小程序\Dwelling.Demo\Dwelling.IDAL\bin\Debug\Dwelling.IDAL.pdb
+C:\Users\Lenovo\Desktop\蜗居微信小程序\Dwelling.Demo\Dwelling.IDAL\obj\Debug\Dwelling.IDAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\蜗居微信小程序\Dwelling.Demo\Dwelling.IDAL\obj\Debug\Dwelling.IDAL.dll
+C:\Users\Lenovo\Desktop\蜗居微信小程序\Dwelling.Demo\Dwelling.IDAL\obj\Debug\Dwelling.IDAL.pdb
+E:\Github\wsl\Dwelling.Demo\Dwelling.IDAL\bin\Debug\Dwelling.IDAL.dll
+E:\Github\wsl\Dwelling.Demo\Dwelling.IDAL\bin\Debug\Dwelling.IDAL.pdb
+E:\Github\wsl\Dwelling.Demo\Dwelling.IDAL\obj\Debug\Dwelling.IDAL.csprojAssemblyReference.cache
+E:\Github\wsl\Dwelling.Demo\Dwelling.IDAL\obj\Debug\Dwelling.IDAL.csproj.CoreCompileInputs.cache
+E:\Github\wsl\Dwelling.Demo\Dwelling.IDAL\obj\Debug\Dwelling.IDAL.dll
+E:\Github\wsl\Dwelling.Demo\Dwelling.IDAL\obj\Debug\Dwelling.IDAL.pdb

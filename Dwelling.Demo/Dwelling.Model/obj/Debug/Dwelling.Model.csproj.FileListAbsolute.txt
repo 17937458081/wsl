@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\蜗居微信小程序\Dwelling.Demo\Dwelling.Model\bin\Debug\Dwelling.Model.dll
+C:\Users\Lenovo\Desktop\蜗居微信小程序\Dwelling.Demo\Dwelling.Model\bin\Debug\Dwelling.Model.pdb
+C:\Users\Lenovo\Desktop\蜗居微信小程序\Dwelling.Demo\Dwelling.Model\obj\Debug\Dwelling.Model.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\蜗居微信小程序\Dwelling.Demo\Dwelling.Model\obj\Debug\Dwelling.Model.dll
+C:\Users\Lenovo\Desktop\蜗居微信小程序\Dwelling.Demo\Dwelling.Model\obj\Debug\Dwelling.Model.pdb
+E:\Github\wsl\Dwelling.Demo\Dwelling.Model\bin\Debug\Dwelling.Model.dll
+E:\Github\wsl\Dwelling.Demo\Dwelling.Model\bin\Debug\Dwelling.Model.pdb
+E:\Github\wsl\Dwelling.Demo\Dwelling.Model\obj\Debug\Dwelling.Model.csprojAssemblyReference.cache
+E:\Github\wsl\Dwelling.Demo\Dwelling.Model\obj\Debug\Dwelling.Model.csproj.CoreCompileInputs.cache
+E:\Github\wsl\Dwelling.Demo\Dwelling.Model\obj\Debug\Dwelling.Model.dll
+E:\Github\wsl\Dwelling.Demo\Dwelling.Model\obj\Debug\Dwelling.Model.pdb
