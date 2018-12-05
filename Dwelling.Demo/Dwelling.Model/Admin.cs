@@ -1,4 +1,4 @@
-﻿
+<<<<<<< HEAD
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -11,7 +11,7 @@ namespace Dwelling.Model
     public class Admin
     {
         /// <summary>
-        ///管理员ID  丁玲
+        ///管理员ID  合适的话高大上对方是梵蒂冈
         /// </summary>
         [Key]
         public int Admin_ID { get; set; }
