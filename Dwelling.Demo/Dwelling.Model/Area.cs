@@ -9,7 +9,7 @@ namespace Dwelling.Model
    public class Area
     {
         /// <summary>
-        /// 面积ID
+        /// 面积ID45
         /// </summary>
         public int Area_ID { get; set; }
         /// <summary>
