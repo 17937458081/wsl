@@ -11,7 +11,7 @@ namespace Dwelling.Model
     public class Admin
     {
         /// <summary>
-        ///管理员ID  合适的话高大上对方是梵蒂冈
+        ///管理员ID  
         /// </summary>
         [Key]
         public int Admin_ID { get; set; }
