@@ -9,7 +9,7 @@ namespace Dwelling.Model
   public  class Address
     {
         /// <summary>
-        /// 地址ID规范化
+        /// 地址ID       王帅磊
         /// </summary>
         public int Address_ID { get; set; }
         /// <summary>
